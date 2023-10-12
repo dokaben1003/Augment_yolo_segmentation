@@ -1,4 +1,4 @@
-# Image Augmentation Script
+# Yolo Segmentation Augmentation Script
 
 This script is designed for augmenting image datasets by creating flipped versions of the images and appropriately adjusting their corresponding annotations. This is particularly useful for increasing the size of your dataset and introducing more variability, which can help improve the robustness of machine learning models.
 
